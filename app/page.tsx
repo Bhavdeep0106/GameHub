@@ -16,17 +16,12 @@ const games = [
     image: "/puzzle.svg" 
   },
   {
-    title: "Snake Game",
-    description: "Classic snake game with modern graphics",
-    link: "/games/snake",
-    image: "/snake.png"
+    title: "48 to go ...",
+    description: "",
+    link: "",
+    image: ""
   },
-  {
-    title: "Tetris",
-    description: "The classic block stacking game",
-    link: "/games/tetris",
-    image: "/tetris.png"
-  }
+  
 ]
 
 export default function Home() {
